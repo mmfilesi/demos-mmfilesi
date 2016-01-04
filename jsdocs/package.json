@@ -1,0 +1,17 @@
+{
+  "name": "demo-jsdocs",
+  "version": "1.0.0",
+  "description": "demo del funcionamiento de jsdocs",
+  "author": "mmfilesi",
+  "bin": {
+    "module-name": "./bin/module-name"
+  },
+  "keywords": [
+    "jsdocs"
+  ],
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-jsdoc": "^1.1.0"
+  }
+}
